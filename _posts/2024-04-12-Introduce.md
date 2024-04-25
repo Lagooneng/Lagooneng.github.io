@@ -6,6 +6,9 @@ tags: [inroduce] # TAG names should always be lowercase
 pin: true
 ---
 
+## [페이지 repository 링크](https://github.com/Lagooneng/Lagooneng.github.io)
+
+<br>
 안녕하세요, <br>
 단국대학교 3학년 재학중인 정현우입니다. <br>
 현재 게임 개발자를 목표로 공부하고 있습니다. <br>
